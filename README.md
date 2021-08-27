@@ -1,5 +1,5 @@
-設計模式及Socket練習
+Design and Socket practice
 
-執行java testRun即可啟動
+run "java testRun" to usd
 
 File Server.java is from Head First Java, good book.
